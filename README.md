@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Harun
 #### Web Devoloper
-![Web Devoloper](https://i.ibb.co/pff04BW/github2.jpg)
+![Web Devoloper](https://i.ibb.co/r3VVNLQ/bannergithub.png)
 
 I am Harun, a skilled web developer passionate about creating dynamic and user-friendly websites. I am proficient in modern web technologies and committed to delivering high-quality digital experiences.
 
